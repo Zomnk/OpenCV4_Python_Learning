@@ -1,3 +1,4 @@
+# Python==3.7.12
 numpy==1.21.6
 ipykernel==6.16.2
 matplotlib==3.5.3
