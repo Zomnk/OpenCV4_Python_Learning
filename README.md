@@ -1,0 +1,2 @@
+# OpenCV4_Python_Learning
+在《OpenCV4详解基于Python》本书学习过程中，本人利用Jupyter Notebook将书上的.py文件重写的记录，在Github上传便于自己学习参阅，也欢迎各位学习OpenCV4的同好们批评指正！
